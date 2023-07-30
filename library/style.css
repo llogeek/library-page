@@ -964,7 +964,9 @@ body, html{
 .input-card-form {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   width: 520px;
+  height: 157px;
   margin-left: 20px;
   margin-right: 20px;
   margin-top: 0px;
@@ -978,6 +980,8 @@ body, html{
   flex-shrink: 0;
   border-radius: 10px;
   background: #FFF;
+  margin-top: 0;
+  padding: 0;
 }
 .input-card-form input::placeholder{
   color: #8E8E8E;
