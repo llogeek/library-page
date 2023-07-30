@@ -195,8 +195,6 @@ body, html{
 .pagination-container {
   display: flex;
   flex-direction: row;
-  width: 98px;
-  height: 26px;
 }
 .pagination-element {
   display: flex;
