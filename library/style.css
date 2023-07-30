@@ -20,7 +20,7 @@ body, html{
 .library-name {
   display: flex;
   align-items: center;
-  width: 294px;
+  white-space: nowrap;
   height: 50px;
   margin-right: 454px;
   margin-top: 20px;
