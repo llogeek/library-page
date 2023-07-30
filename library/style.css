@@ -318,7 +318,7 @@ body, html{
   font-style: normal;
   font-weight: 400;
   line-height: normal;
-  margin-left: 15px;
+  margin-left: 20px;
   cursor: pointer;
 }
 .season-element input[type="radio"]:checked+label {
