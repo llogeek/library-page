@@ -257,12 +257,12 @@ body, html{
 }
 .favorites-header hr {
   width: 50px;
-	padding: 0;
-	height: 0;
+  padding: 0;
+  height: 0;
   margin-top: 0px;
   margin-bottom: 0px;
-	border: none;
-	border-top: 1px solid #333;
+  border: none;
+  border-top: 1px solid #333;
 }
 .fav-text {
   display: flex;
@@ -367,11 +367,11 @@ body, html{
 }
 .book-item-header hr {
   width: 60px;
-	padding: 0;
-	height: 0;
+  padding: 0;
+  height: 0;
   margin: 0;
-	border: none;
-	border-top: 1px solid #BB945F;
+  border: none;
+  border-top: 1px solid #BB945F;
 }
 .book-item-name-author {
   display: flex;
@@ -512,11 +512,11 @@ body, html{
 }
 .coffee-shop-header hr {
   width: 50px;
-	padding: 0;
-	height: 0;
+  padding: 0;
+  height: 0;
   margin: 0;
-	border: none;
-	border-top: 1px solid #0C0C0E;
+  border: none;
+  border-top: 1px solid #0C0C0E;
 }
 .coffee-shop-description {
   display: flex;
