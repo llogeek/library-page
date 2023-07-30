@@ -202,6 +202,7 @@ body, html{
   display: flex;
   width: 26px; 
   height: 26px;
+  padding: 5px 5px;
   margin: auto;
   background: none;
   border-radius: 50%;
